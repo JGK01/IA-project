@@ -1,0 +1,201 @@
+question_id;question_type;image_name;question;answer;image_id
+64001;are there;COCO_train2014_64.jpg;Are there numbers on the clock face?;no;64
+64002;is there a;COCO_train2014_64.jpg;Is there a big tree behind the clock?;yes;64
+458752003;is this;COCO_train2014_458752.jpg;Is this man a professional baseball player?;yes;458752
+131093000;are there;COCO_train2014_131093.jpg;Are there rocks in the picture?;yes;131093
+137045001;is the;COCO_train2014_137045.jpg;Is the animal a mammal?;yes;137045
+131093001;has;COCO_train2014_131093.jpg;Has the sheep recently been shaved?;no;131093
+131093003;are there;COCO_train2014_131093.jpg;Are there three sheep?;yes;131093
+127000;is there a;COCO_train2014_127.jpg;Is there a travel guide on the table?;yes;127
+262207001;is there a;COCO_train2014_262207.jpg;Is there a person standing in front of the television?;yes;262207
+262207003;is there;COCO_train2014_262207.jpg;Is there enough room under the armchairs for a cat to hide?;yes;262207
+131113001;is there a;COCO_train2014_131113.jpg;Is there a carpet on the floor?;yes;131113
+262184000;is this a;COCO_train2014_262184.jpg;Is this a toy-sized truck?;no;262184
+305853001;is there;COCO_train2014_305853.jpg;Is there more than one vase on the table?;yes;305853
+131133002;are the;COCO_train2014_131133.jpg;Are the mountains high?;yes;131133
+131197004;is the;COCO_train2014_131197.jpg;Is the ram's fleece dirty?;no;131197
+546151001;is the;COCO_train2014_546151.jpg;Is the bus stopped?;yes;546151
+81000;does this;COCO_train2014_81.jpg;Does this planes tail have 4 colors?;no;81
+81001;is this;COCO_train2014_81.jpg;Is this plane landing?;no;81
+81002;is this;COCO_train2014_81.jpg;Is this plane taking off?;no;81
+81004;are these;COCO_train2014_81.jpg;Are these wings strong?;yes;81
+131174002;is there;COCO_train2014_131174.jpg;Is there anyone in the cockpit?;yes;131174
+524325002;are;COCO_train2014_524325.jpg;Are those kites in the air?;yes;524325
+393317002;is the;COCO_train2014_393317.jpg;Is the light green?;yes;393317
+393317004;is it;COCO_train2014_393317.jpg;Is it raining?;no;393317
+393317009;is this;COCO_train2014_393317.jpg;Is this woman crossing a street?;yes;393317
+393317013;is this;COCO_train2014_393317.jpg;Is this in the United States?;yes;393317
+262159000;is there a;COCO_train2014_262159.jpg;Is there a deodorant on the sink?;no;262159
+131087001;is the;COCO_train2014_131087.jpg;Is the dog wearing a collar?;yes;131087
+131087002;is it;COCO_train2014_131087.jpg;Is it a clear day?;yes;131087
+131087003;is there a;COCO_train2014_131087.jpg;Is there a body of water here?;yes;131087
+262159001;is there a;COCO_train2014_262159.jpg;Is there a full roll of toilet paper in the bathroom?;yes;262159
+262159003;none of the above;COCO_train2014_262159.jpg;Would someone be able to watch you change from the outside?;yes;262159
+262159005;does the;COCO_train2014_262159.jpg;Does the shower have a glass door?;no;262159
+262159008;is the;COCO_train2014_262159.jpg;Is the towel rack silver?;no;262159
+262180001;is this a;COCO_train2014_262180.jpg;Is this a good dessert?;yes;262180
+262159009;is there a;COCO_train2014_262159.jpg;Is there a shower curtain?;yes;262159
+262159012;is the;COCO_train2014_262159.jpg;Is the toilet lid down?;yes;262159
+262201001;none of the above;COCO_train2014_262201.jpg;Will the birds go into the water?;no;262201
+262201003;is this;COCO_train2014_262201.jpg;Is this bird afraid of the ledge?;no;262201
+78000;are the;COCO_train2014_78.jpg;Are the clock and owl made in the same artistic fashion?;no;78
+78001;is;COCO_train2014_78.jpg;Is that owl a candle?;yes;78
+393230002;is there a;COCO_train2014_393230.jpg;Is there a shadow of a tree in the foreground?;no;393230
+393230006;none of the above;COCO_train2014_393230.jpg;Did someone forget his luggage in the snow?;no;393230
+393230008;is it;COCO_train2014_393230.jpg;Is it daytime?;yes;393230
+393251000;are they;COCO_train2014_393251.jpg;Are they drinking wine at the child's party?;yes;393251
+393230010;is the person;COCO_train2014_393230.jpg;Is the person wearing a hat?;no;393230
+393251001;is the man;COCO_train2014_393251.jpg;Is the man wearing glasses?;yes;393251
+131128003;do;COCO_train2014_131128.jpg;Do the painted flowers match the real ones?;no;131128
+262285002;is there;COCO_train2014_262285.jpg;Is there an animal that seems to stick out?;no;262285
+262285003;is this;COCO_train2014_262285.jpg;Is this in a zoo?;no;262285
+262285004;is this;COCO_train2014_262285.jpg;Is this in a desert?;yes;262285
+34000;is this a;COCO_train2014_34.jpg;Is this a horse?;no;34
+524386000;is the;COCO_train2014_524386.jpg;Is the room carpeted?;yes;524386
+524386002;is there a;COCO_train2014_524386.jpg;Is there a fireplace?;no;524386
+524386003;are;COCO_train2014_524386.jpg;Are stains on the floor?;no;524386
+524386008;are these;COCO_train2014_524386.jpg;Are these boys at home?;no;524386
+131127001;is the man;COCO_train2014_131127.jpg;Is the man unhappy?;no;131127
+131127002;are the;COCO_train2014_131127.jpg;Are the men going to share the bananas?;no;131127
+524386010;is this a;COCO_train2014_524386.jpg;Is this a 60's motif?;no;524386
+393228000;are there;COCO_train2014_393228.jpg;Are there 3 elephants?;yes;393228
+131084001;is the man;COCO_train2014_131084.jpg;Is the man riding on a dirt path?;yes;131084
+393228001;are;COCO_train2014_393228.jpg;Are all of the elephants full grown?;no;393228
+393228002;are the;COCO_train2014_393228.jpg;Are the elephants in the jungle?;yes;393228
+393292000;is the;COCO_train2014_393292.jpg;Is the water on?;no;393292
+393292001;is this;COCO_train2014_393292.jpg;Is this photo outdoors?;yes;393292
+524428000;are these;COCO_train2014_524428.jpg;Are these the normal size pieces of pizza?;yes;524428
+524428001;could;COCO_train2014_524428.jpg;Could you eat all of this pizza?;no;524428
+524428002;is there;COCO_train2014_524428.jpg;Is there broccoli on a slice of pizza?;yes;524428
+131190000;is this a;COCO_train2014_131190.jpg;Is this a large house?;yes;131190
+567990001;does the;COCO_train2014_567990.jpg;Does the crust look burnt?;yes;567990
+131126002;is there a;COCO_train2014_131126.jpg;Is there a stop sign in the picture?;yes;131126
+567990003;does this;COCO_train2014_567990.jpg;Does this pizza have a deep dish crust?;yes;567990
+131190001;is there a;COCO_train2014_131190.jpg;Is there a fountain in front of the building?;no;131190
+131190002;is the;COCO_train2014_131190.jpg;Is the sun shining?;yes;131190
+131190004;is this a;COCO_train2014_131190.jpg;Is this a church?;yes;131190
+131190006;are there;COCO_train2014_131190.jpg;Are there clouds visible?;no;131190
+393227000;does the;COCO_train2014_393227.jpg;Does the guy have a tattoo?;yes;393227
+131190007;is this a;COCO_train2014_131190.jpg;Is this a sunny day?;yes;131190
+262283001;is the;COCO_train2014_262283.jpg;Is the area lit?;yes;262283
+262283003;are the;COCO_train2014_262283.jpg;Are the vases identical?;no;262283
+393227004;is the;COCO_train2014_393227.jpg;Is the man's visor providing his face enough protection?;no;393227
+458763006;is this a;COCO_train2014_458763.jpg;Is this a wedding?;no;458763
+393291006;are there any;COCO_train2014_393291.jpg;Are there any reflections in this picture?;no;393291
+524320000;is the man;COCO_train2014_524320.jpg;Is the man standing on both foot?;no;524320
+524320001;was;COCO_train2014_524320.jpg;Was this picture likely taken recently?;no;524320
+524320002;do;COCO_train2014_524320.jpg;Do the gentleman's socks match his shoes and belt?;no;524320
+131190014;are the;COCO_train2014_131190.jpg;Are the hedges well-groomed?;no;131190
+131190015;does the;COCO_train2014_131190.jpg;Does the building in the back have an elevator?;no;131190
+131190017;do you;COCO_train2014_131190.jpg;Do you a phone booth?;no;131190
+131190021;are the;COCO_train2014_131190.jpg;Are the buildings tall?;yes;131190
+131190023;is the;COCO_train2014_131190.jpg;Is the clock between two arches?;no;131190
+131190024;are there any;COCO_train2014_131190.jpg;Are there any entrance gates at the bottom of the tower?;no;131190
+131190025;is the;COCO_train2014_131190.jpg;Is the building a high rise?;no;131190
+262261002;does this;COCO_train2014_262261.jpg;Does this image contain a pie pan?;yes;262261
+131190026;is;COCO_train2014_131190.jpg;Is part of this tower made of wood?;yes;131190
+131190027;none of the above;COCO_train2014_131190.jpg;Can the tree tell time?;no;131190
+131190030;is the;COCO_train2014_131190.jpg;Is the emblem a sun face clock?;yes;131190
+393290001;is the woman;COCO_train2014_393290.jpg;Is the woman eating the pizza?;no;393290
+138002;is this a;COCO_train2014_138.jpg;Is this a conventional kitchen?;no;138
+393311000;none of the above;COCO_train2014_393311.jpg;Will these planes be used to transport people?;no;393311
+262260002;is this;COCO_train2014_262260.jpg;Is this image tilted?;yes;262260
+524297000;none of the above;COCO_train2014_524297.jpg;Judging from the dress, was this taken in a Latin American country?;yes;524297
+524297002;are the;COCO_train2014_524297.jpg;Are the men on the sidewalk?;no;524297
+524297003;was;COCO_train2014_524297.jpg;Was this photo taken recently?;no;524297
+30000;are there;COCO_train2014_30.jpg;Are there flowers in the vase?;yes;30
+30003;are the;COCO_train2014_30.jpg;Are the flowers open?;yes;30
+94004;is this a;COCO_train2014_94.jpg;Is this a small town?;yes;94
+30005;are;COCO_train2014_30.jpg;Are all the flowers white?;no;30
+393224000;is the man;COCO_train2014_393224.jpg;Is the man smiling?;no;393224
+131208001;is that a;COCO_train2014_131208.jpg;Is that a laptop on the chair?;yes;131208
+393224002;none of the above;COCO_train2014_393224.jpg;Does his tie pair well with his suit?;no;393224
+393224003;does the;COCO_train2014_393224.jpg;Does the man look happy?;no;393224
+393224004;is this;COCO_train2014_393224.jpg;Is this photo in color?;no;393224
+393224005;is the man;COCO_train2014_393224.jpg;Is the man wearing a plain tie?;no;393224
+72002;are the;COCO_train2014_72.jpg;Are the giraffes under the trees?;yes;72
+131101001;is this;COCO_train2014_131101.jpg;Is this man angry?;no;131101
+524377007;is this a;COCO_train2014_524377.jpg;Is this a healthy meal?;no;524377
+524338002;is this;COCO_train2014_524338.jpg;Is this man reading a cell phone screen?;no;524338
+393223000;is the;COCO_train2014_393223.jpg;Is the window open?;yes;393223
+71000;does this;COCO_train2014_71.jpg;Does this photo show train tracks?;yes;71
+71001;does this;COCO_train2014_71.jpg;Does this train work?;yes;71
+393223003;is;COCO_train2014_393223.jpg;Is she brushing?;yes;393223
+92001;does this;COCO_train2014_92.jpg;Does this cake look like it chocolate?;yes;92
+262172002;are they;COCO_train2014_262172.jpg;Are they moving?;yes;262172
+43697000;is this a;COCO_train2014_43697.jpg;Is this a hot dog?;yes;43697
+49000;is there a;COCO_train2014_49.jpg;Is there a flower arrangement on the lawn?;yes;49
+43697002;is there;COCO_train2014_43697.jpg;Is there ketchup on the hot dog?;no;43697
+43697003;has;COCO_train2014_43697.jpg;Has this hot dog been grilled?;no;43697
+43697004;none of the above;COCO_train2014_43697.jpg;Have you tried a hot dog like this before?;yes;43697
+49002;are they;COCO_train2014_49.jpg;Are they playing polo?;no;49
+113005;is there a;COCO_train2014_113.jpg;Is there a cake here?;yes;113
+113006;are there any;COCO_train2014_113.jpg;Are there any pens on the table?;no;113
+393286000;is the;COCO_train2014_393286.jpg;Is the banana freshly peeled?;yes;393286
+393286001;is the;COCO_train2014_393286.jpg;Is the banana closed?;no;393286
+240304001;are the;COCO_train2014_240304.jpg;Are the zebras facing the same direction?;yes;240304
+393221000;is the;COCO_train2014_393221.jpg;Is the sky blue?;yes;393221
+393221001;is there;COCO_train2014_393221.jpg;Is there snow on the mountains?;yes;393221
+393306000;is the man;COCO_train2014_393306.jpg;Is the man wearing formal clothes?;no;393306
+262191000;is this;COCO_train2014_262191.jpg;Is this bear a normal size?;no;262191
+524420001;is the;COCO_train2014_524420.jpg;Is the picture in color?;yes;524420
+524420002;is there a;COCO_train2014_524420.jpg;Is there a dog in the photo?;yes;524420
+524420003;is the;COCO_train2014_524420.jpg;Is the dog on a leash?;yes;524420
+524377001;is there;COCO_train2014_524377.jpg;Is there ketchup?;no;524377
+25002;could;COCO_train2014_25.jpg;Could this photo be from a zoo?;yes;25
+25003;are the;COCO_train2014_25.jpg;Are the animals eating?;yes;25
+524377003;is the;COCO_train2014_524377.jpg;Is the hotdog well seasoned?;yes;524377
+25005;is there a;COCO_train2014_25.jpg;Is there a zebra?;no;25
+25007;is the;COCO_train2014_25.jpg;Is the giraffe eating the tree?;yes;25
+131118000;are these;COCO_train2014_131118.jpg;Are these airliners?;yes;131118
+25008;are;COCO_train2014_25.jpg;Are both giraffes standing?;no;25
+131118002;are;COCO_train2014_131118.jpg;Are this cargo planes?;yes;131118
+25009;are they;COCO_train2014_25.jpg;Are they at a zoo?;yes;25
+25011;are;COCO_train2014_25.jpg;Are some of the trees dead?;yes;25
+25012;are;COCO_train2014_25.jpg;Are any of the animals eating?;yes;25
+25013;is the;COCO_train2014_25.jpg;Is the giraffe in the shade?;no;25
+25014;are these;COCO_train2014_25.jpg;Are these giraffes living free range?;yes;25
+25016;is there a;COCO_train2014_25.jpg;Is there a rock near the giraffe?;no;25
+524291001;is the;COCO_train2014_524291.jpg;Is the dog waiting?;yes;524291
+131075001;is the;COCO_train2014_131075.jpg;Is the light on?;no;131075
+524377015;is there a;COCO_train2014_524377.jpg;Is there a spoon in this photo?;no;524377
+131075004;is the;COCO_train2014_131075.jpg;Is the room messy?;no;131075
+131075005;is this a;COCO_train2014_131075.jpg;Is this a TV screen?;yes;131075
+524377016;is this;COCO_train2014_524377.jpg;Is this breakfast?;no;524377
+131160001;none of the above;COCO_train2014_131160.jpg;Would you be able to find a mosque in this city?;yes;131160
+524377025;is there a;COCO_train2014_524377.jpg;Is there a drink in this picture?;no;524377
+131075011;is there a;COCO_train2014_131075.jpg;Is there a laptop in the image?;yes;131075
+524377030;do;COCO_train2014_524377.jpg;Do these hot dogs look like they taste good?;yes;524377
+524377031;are;COCO_train2014_524377.jpg;Are those tomatoes on the sandwich?;no;524377
+109000;is this an;COCO_train2014_109.jpg;Is this an ocean area?;yes;109
+109003;is the;COCO_train2014_109.jpg;Is the ground near the waterfront squishy?;no;109
+524377037;are the;COCO_train2014_524377.jpg;Are the fries plain?;no;524377
+524377038;does this;COCO_train2014_524377.jpg;Does this breakfast dish primarily carbohydrates?;yes;524377
+524377039;has;COCO_train2014_524377.jpg;Has someone started eating?;no;524377
+109005;is the;COCO_train2014_109.jpg;Is the water calm?;yes;109
+524377041;none of the above;COCO_train2014_524377.jpg;Would this be good for dessert?;no;524377
+131074002;are the;COCO_train2014_131074.jpg;Are the walls done in a summery color?;yes;131074
+131074003;is the;COCO_train2014_131074.jpg;Is the curtain patterned?;no;131074
+524377042;is there a;COCO_train2014_524377.jpg;Is there a butter plate on the table?;yes;524377
+131074005;are the;COCO_train2014_131074.jpg;Are the windows the same size?;yes;131074
+524377043;does this;COCO_train2014_524377.jpg;Does this have lettuce?;no;524377
+524377044;does the;COCO_train2014_524377.jpg;Does the food look good?;yes;524377
+524375000;is this a;COCO_train2014_524375.jpg;Is this a cow farm?;yes;524375
+524311001;is the man;COCO_train2014_524311.jpg;Is the man having a good time?;yes;524311
+524377045;is this;COCO_train2014_524377.jpg;Is this meat?;yes;524377
+524377048;none of the above;COCO_train2014_524377.jpg;Would this typically be eaten for breakfast?;no;524377
+524377049;is;COCO_train2014_524377.jpg;Is that bacon from a delicatessen?;yes;524377
+524375006;is this a;COCO_train2014_524375.jpg;Is this a prairie?;yes;524375
+524375007;is there a;COCO_train2014_524375.jpg;Is there a village in the background?;no;524375
+284012001;is;COCO_train2014_284012.jpg;Is Cingular a sponsor of this field?;yes;284012
+110001;is this a;COCO_train2014_110.jpg;Is this a cheese pizza?;yes;110
+262273001;is there;COCO_train2014_262273.jpg;Is there snow?;yes;262273
+436929001;are;COCO_train2014_436929.jpg;Are all of the birds in flight?;no;436929
+436929003;are there;COCO_train2014_436929.jpg;Are there three birds in the picture?;yes;436929
+436929004;is this a;COCO_train2014_436929.jpg;Is this a dog?;no;436929
+436929005;is this a;COCO_train2014_436929.jpg;Is this a winter scene?;yes;436929
+262273006;is it;COCO_train2014_262273.jpg;Is it summer?;no;262273
+436929006;is the;COCO_train2014_436929.jpg;Is the water frozen?;yes;436929
+86000;is that a;COCO_train2014_86.jpg;Is that a bicycle?;yes;86
+262187000;is this;COCO_train2014_262187.jpg;Is this plane landing?;no;262187
+262187003;is the;COCO_train2014_262187.jpg;Is the plane taking off?;no;262187
